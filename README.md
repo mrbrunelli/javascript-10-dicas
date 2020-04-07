@@ -11,7 +11,7 @@
 - [x] Async e Await
 - [x] Array, Map, Filter e Reduce
 - [x] Expressões
-- [x] Class
+- [x] Class (POO no JavaScript, classes e heranças)
 
 
 ### :tv: [Link da playlist no YouTube](https://www.youtube.com/playlist?list=PL9rc_FjKlX39T78CUANwmdta_d1CgUtMt)
